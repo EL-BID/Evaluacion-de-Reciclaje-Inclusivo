@@ -1,8 +1,8 @@
 ## Descripción
 ---
-**Modelo de Evaluación de Reciclaje Inclusivo para ciudades**
+**Modelo de Evaluación de Reciclaje Inclusivo para ciudades: Hoja de cálculo para la Evaluación de Reciclaje Inclusivo**
 
-La hoja de cálculo para le Evaluación de Reciclaje Inclusivo permite evaluar y comparar mediante diferentes indicadores el modelo de reciclaje inclusivo. Incluye una visión de 12 ciudades diferentes en las que la iniciativa está funcionando. Está formalizado en un archivo de excel y compara datos de las ciudades de Asunción, Bogotá. Buenos Aires, Ciudad de Belice, Ciudad de México, Lima, Montevideo, Quito, San José, San Pablo, santa Cruz y Santiago de Chile. Ahora puedes usarla para evaluar y comparar el nivel del Reciclaje Inclusivo en tu ciudad.
+Esta hoja de cálculo permite evaluar y comparar mediante diferentes indicadores el modelo de reciclaje inclusivo. Incluye una visión de 12 ciudades diferentes en las que la iniciativa está funcionando. Está formalizado en un archivo de excel y compara datos de las ciudades de Asunción, Bogotá. Buenos Aires, Ciudad de Belice, Ciudad de México, Lima, Montevideo, Quito, San José, San Pablo, santa Cruz y Santiago de Chile. Ahora puedes usarla para evaluar y comparar el nivel del Reciclaje Inclusivo en tu ciudad.
 
 Bajo esta iniciativa, el grupo de trabajo de la Iniciativa Regional para el Reciclaje Inclusivo (IRR), ha hecho un estudio y un análisis comparativo que evalúa el sector del reciclaje inclusivo en 12 ciudades de América Latina y el Caribe. Este estudio se puede encontrar en este repositorio bajo el nombre de [EIU_Inclusive Recycling_report SPANISH.pdf](https://github.com/EL-BID/Evaluacion-de-Reciclaje-Inclusivo/blob/master/EIU_Inclusive%20Recycling_report%20SPANISH.pdf) en español o [EIU_Inclusive Recycling_report ENGLISH.pdf](https://github.com/EL-BID/Evaluacion-de-Reciclaje-Inclusivo/blob/master/EIU_Inclusive%20Recycling_report%20ENGLISH.pdf) en inglés.
 
