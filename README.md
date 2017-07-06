@@ -12,6 +12,8 @@ El criterio de evaluación consistió en analizar y medir indicadores cualitativ
 
 Este sistema ayuda a los actores del sector en comprender, medir y evaluar el entorno institucional y operativo del reciclaje informal en América Latina y el Caribe.
 
+Puedes leer más sobre el proyecto en (http://reciclajeinclusivo.org/)
+
 ### Descripción y contexto
 ---
 Se estima que en América Latina y el Caribe alrededor de 4 millones de personas obtienen su sustento de la recuperación y comercialización de materiales reciclables como el papel, cartón, plástico y metal.
