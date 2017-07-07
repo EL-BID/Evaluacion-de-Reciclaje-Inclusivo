@@ -26,12 +26,8 @@ Se estima que en América Latina y el Caribe alrededor de 4 millones de personas
 * [Avances y Desafíos para el Reciclaje Inclusivo: Evaluación de 12 Ciudades de América Latina y el Caribe](http://www.fomin.org/es-es/PORTADA/Conocimiento/idPublication/190625.aspx)
 * [Progress and Challenges for Inclusive Recycling: An Assessment of 12 Latin American and Caribbean Cities ](http://www.fomin.org/en-us/Home/Knowledge/idPublication/190625.aspx)
 
-### Autores
+### Licencia
 ---
 *© [2016] The Economist Intelligence Unit Ltd. All rights reserved.*
 
 *Whilst efforts have been taken to verify the accuracy of this information, neither The Economist Intelligence Unit Ltd. nor any sponsor or provider of financing of this information (nor their affiliates) can accept any responsability or liability for reliance by any person on this information, opinions or conclusions set out therein.*
-
-
-
-
