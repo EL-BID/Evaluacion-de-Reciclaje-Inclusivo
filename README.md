@@ -1,4 +1,4 @@
-> Esta herramienta digital está publicada en la página de **Código para el Desarrollo** del BID. (Evaluación de Reciclaje Inclusivo)[http://code.iadb.org/es/repositorio/26/modelo-de-evaluacion-de-reciclaje-inclusivo]
+> Esta herramienta digital está publicada en la página de **Código para el Desarrollo** del BID. [Evaluación de Reciclaje Inclusivo](http://code.iadb.org/es/repositorio/26/modelo-de-evaluacion-de-reciclaje-inclusivo)
 
 ## Descripción
 ---
